@@ -1,8 +1,8 @@
-#  Urban Retail Co. Sales Analysis Dashboard
+#  Sales Analysis Dashboard 
 
 ##  Overview
 
-This dashboard provides a comprehensive summary and visual analysis of **sales performance**, **inventory efficiency**, and **seasonal demand trends** for **Urban Retail Co.**
+This dashboard provides a comprehensive summary and visual analysis of **sales performance**, **inventory efficiency**, and **seasonal demand trends** for A Retail Store
 
 It is organized into two main sections:
 - **Sales Analysis**
@@ -64,7 +64,7 @@ It is organized into two main sections:
 
 ##  Goal
 
-The goal of this dashboard is to help **Urban Retail Co.**:
+The goal of this dashboard is to help the store:
 -  Optimize inventory levels
 - Reduce stockouts and overstocks
 -  Align inventory with actual seasonal demand
